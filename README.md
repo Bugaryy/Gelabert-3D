@@ -45,28 +45,6 @@ Modelo 3D interactivo del **Aeropuerto Internacional Marcos A. Gelabert (MPMG, A
 | Puntos de espera | 75 m del eje (referencia OACI; no publicado en el AIP) | Aproximada |
 | PAPI y mangas de viento | Posición tomada del ADC | Aproximada |
 
-## Archivos
-
-| Archivo | Contenido |
-|---|---|
-| `index.html` | Visor completo (interfaz, escena 3D y lógica) |
-| `data.json` | Geometría y datos: pista, calles, plataformas, edificios, obstáculos, ATZ |
-| `tex_core.jpg` | Imagen satelital del área central (0,5 m/píxel) |
-| `tex_field.jpg` | Imagen satelital del aeródromo (1 m/píxel) |
-| `tex_wide.jpg` | Imagen satelital del entorno (2 m/píxel) |
-
-## Ejecutar en local
-
-El visor carga `data.json` y las texturas con `fetch`, así que necesita un servidor web: abrir el archivo directamente con doble clic no funciona.
-
-```bash
-cd carpeta-del-proyecto
-python3 -m http.server 8000
-# abrir http://localhost:8000
-```
-
-Necesita conexión a internet para cargar three.js y las fuentes desde CDN.
-
 ## Tecnología
 
 - [three.js](https://threejs.org) r160 (MIT): escena 3D, controles de mapa
