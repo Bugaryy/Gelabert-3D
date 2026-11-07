@@ -1,0 +1,74 @@
+MPMG Gelabert 3D
+Copyright (c) 2026 Derek Cuan ("Delta Charlie") — https://github.com/Bugaryy
+Todos los derechos reservados. / All rights reserved.
+
+===============================================================================
+LICENCIA DE SOFTWARE PROPIETARIO (ESPAÑOL)
+===============================================================================
+
+1. TITULARIDAD
+   El código fuente, el diseño de la interfaz, los modelos 3D, la geometría
+   trazada (pista, calles de rodaje, plataformas, edificios), los textos
+   descriptivos y la organización de los datos de "MPMG Gelabert 3D" (en
+   adelante, "el Software") son propiedad exclusiva de Derek Cuan, quien firma
+   como "Delta Charlie".
+
+2. USO PERMITIDO
+   Se permite ver y utilizar el Software únicamente a través de los medios
+   que el titular ponga a disposición (por ejemplo, el enlace publicado o una
+   copia entregada por él), con fines personales de estudio.
+
+3. USO NO PERMITIDO SIN AUTORIZACIÓN ESCRITA DEL TITULAR
+   a) Copiar, modificar, adaptar, traducir o crear obras derivadas del
+      Software o de cualquiera de sus partes.
+   b) Distribuir, publicar, sublicenciar, vender, alquilar o prestar el
+      Software, ya sea gratis o a cambio de un pago.
+   c) Usar el Software o sus partes en productos, cursos o servicios
+      comerciales.
+   d) Quitar o alterar los avisos de autoría, de derechos de autor o esta
+      licencia.
+   e) Aplicar ingeniería inversa, salvo en lo que la ley aplicable permita
+      expresamente.
+
+4. CONTENIDO DE TERCEROS (no está cubierto por esta licencia)
+   a) Imágenes satelitales: provienen de capturas de pantalla de Google Maps
+      y pertenecen a Google y a sus proveedores de imágenes. Para cualquier
+      uso comercial o distribución pública, deben reemplazarse por imágenes
+      con licencia adecuada u obtenerse el permiso correspondiente.
+   b) Datos aeronáuticos: se basan en el AIP de Panamá (AD 2.2-MPMG),
+      publicado por la Autoridad Aeronáutica Civil de Panamá. Siguen siendo
+      de su autoría.
+   c) three.js (licencia MIT) e IBM Plex (SIL Open Font License 1.1) se
+      cargan desde CDN y se rigen por sus propias licencias.
+
+5. AVISO DE SEGURIDAD
+   El Software es una herramienta de estudio. NO está aprobado para
+   navegación aérea, planificación de vuelos, control de tránsito aéreo ni
+   ninguna otra operación real. Para operaciones utilice siempre el AIP
+   vigente y la información oficial de la AAC.
+
+6. SIN GARANTÍA
+   El Software se entrega "tal cual", sin garantías de ningún tipo, expresas
+   o implícitas, incluidas la exactitud de los datos, la idoneidad para un
+   propósito determinado y la ausencia de errores. En ningún caso el titular
+   será responsable por daños derivados del uso o la imposibilidad de uso del
+   Software.
+
+7. CONTACTO Y PERMISOS
+   Para licencias comerciales, permisos o colaboraciones:
+   https://github.com/Bugaryy
+
+===============================================================================
+PROPRIETARY SOFTWARE LICENSE (ENGLISH SUMMARY)
+===============================================================================
+
+This software, including its source code, UI design, 3D models, traced
+geometry, descriptive texts and data organization, is the exclusive property
+of Derek Cuan ("Delta Charlie"). Personal study use is allowed only through
+the channels the owner provides. Copying, modifying, redistributing,
+sublicensing, selling or commercial use requires the owner's prior written
+permission. Satellite imagery (Google and its providers), AIP Panamá data
+(Autoridad Aeronáutica Civil), three.js (MIT) and IBM Plex (OFL 1.1) belong
+to their respective owners and are not covered by this license. NOT FOR
+OPERATIONAL OR NAVIGATIONAL USE. Provided "as is", without warranty of any
+kind. If the Spanish and English texts differ, the Spanish version prevails.
